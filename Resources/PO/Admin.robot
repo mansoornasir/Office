@@ -1,6 +1,7 @@
 *** Settings ***
 Library  SeleniumLibrary
 
+
 *** Variables ***
 
 ${EMAIL_FIELD} =            css=#email
