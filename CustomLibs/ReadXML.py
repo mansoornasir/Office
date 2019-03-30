@@ -1,1 +1,0 @@
-#This example strictly depends on the content and structre of the XML file. So I can't write any code right now.
