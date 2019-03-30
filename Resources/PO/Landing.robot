@@ -2,7 +2,7 @@
 Library  SeleniumLibrary
 
 *** Variables ***
-${LANDING_NAVIGATION_ELEMENT} =  xpath=//*[@id="tsf"]/div[2]/div/div[3]/center/input[1]
+${LANDING_NAVIGATION_ELEMENT} =  css=[href='https://testing.buyerdocs.com/user/home']
 
 *** Keywords ***
 Navigate To
